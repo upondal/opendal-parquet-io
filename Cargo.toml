@@ -1,12 +1,12 @@
 [package]
-authors = ["Xuanwo <github@xuanwo.io>>"]
+name = "opendal-parquet-io"
+version = "0.0.0"
+
 categories = ["command-line-utilities"]
-description = "Replace with description"
-documentation = "https://docs.rs/formwork"
-repository = "https://github.com/Xuanwo/formwork"
+description = "`opendal-parquet-io` is the adapter for [parquet](https://docs.rs/parquet) IO operations."
+documentation = "https://docs.rs/opendal-parquet-io"
+repository = "https://github.com/upondal/opendal-parquet-io"
 edition = "2021"
 license = "Apache-2.0"
-name = "formwork"
-version = "0.0.1"
 
 [dependencies]

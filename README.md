@@ -1,25 +1,15 @@
-# formwork &emsp; [![Build Status]][actions] [![Latest Version]][crates.io]
+# OpenDAL Parquet IO &emsp; [![Build Status]][actions] [![Latest Version]][crates.io]
 
-[Build Status]: https://img.shields.io/github/actions/workflow/status/Xuanwo/formwork/ci.yml
-[actions]: https://github.com/Xuanwo/formwork/actions?query=branch%3Amain
-[Latest Version]: https://img.shields.io/crates/v/formwork.svg
-[crates.io]: https://crates.io/crates/formwork
+[Build Status]: https://img.shields.io/github/actions/workflow/status/upondal/opendal-parquet-io/ci.yml
+[actions]: https://github.com/upondal/opendal-parquet-io/actions?query=branch%3Amain
+[Latest Version]: https://img.shields.io/crates/v/opendal-parquet-io.svg
+[crates.io]: https://crates.io/crates/opendal-parquet-io
 
-`formwork` is my favourite rust template.
-
-> Please replace with valid value.
+`opendal-parquet-io` is the adapter for [parquet](https://docs.rs/parquet) IO operations.
 
 ## Quick Start
 
-Replace all placeholder with valid values, for example:
-
-- `Xuanwo` => github login
-- `github@xuanwo.io` => email
-- `formwork` => crate name
-
-```rust
-// Replace with quick Start here
-```
+TODO
 
 ## Contributing
 
@@ -27,7 +17,7 @@ Check out the [CONTRIBUTING.md](./CONTRIBUTING.md) guide for more details on get
 
 ## Getting help
 
-Submit [issues](https://github.com/Xuanwo/formwork/issues/new/choose) for bug report or asking questions in [discussion](https://github.com/Xuanwo/formwork/discussions/new?category=q-a).
+Submit [issues](https://github.com/upondal/opendal-parquet-io/issues/new/choose) for bug report or asking questions in [discussion](https://github.com/upondal/opendal-parquet-io/discussions/new?category=q-a).
 
 #### License
 
